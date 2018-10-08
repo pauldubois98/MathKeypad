@@ -1,0 +1,7 @@
+\mathbb{C} ,\mathbb{R} ,\mathbb{Q} ,\mathbb{D} ,\mathbb{Z} ,\mathbb{N} 
+\forall ,\exists ,\emptyset ,\infty ,\partial ,\nabla 
+\sqrt{} ??,\sqrt[]{} ????,\overleftarrow{} ??,\overrightarrow{} ??,\overline{} ??,\underline{} ??
+\frac{}{} ????,\stackrel{}{} ????,\widehat{} ??,\widetilde{} ??,\imath ,\jmath 
+\not,\ll ,\leq ,\geq ,\gg ,\in 
+\neq ,\equiv ,\approx ,\pm ,\mp, \subset 
+\parallel ,\perp ,\circ ,\sim ,$$?,$$$$??
